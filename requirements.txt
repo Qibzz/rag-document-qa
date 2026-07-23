@@ -5,3 +5,5 @@ anthropic
 python-dotenv
 google-genai
 flask
+numpy
+gunicorn
