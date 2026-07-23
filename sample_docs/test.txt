@@ -1,0 +1,2 @@
+Ini adalah dokumen percobaan untuk testing document loader. 
+Kita mau lihat apakah chunking dan loading berjalan dengan baik.
